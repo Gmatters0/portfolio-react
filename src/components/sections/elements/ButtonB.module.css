@@ -1,0 +1,17 @@
+.buttonB{
+    background-color: transparent;
+    color: #74fac0;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 18px 20px;
+    border: 2px solid;
+    border-radius: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.buttonB:hover{
+    background-color: #74fac0;
+    color: black;
+    transition-duration: 0.2s;
+}
