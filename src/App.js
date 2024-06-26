@@ -8,11 +8,11 @@ import Footer from './components/sections/Footer';
 function App() {
   return (
     <div className="App">
-      <Navbar/>
-      <Presentation/>
-      <Skills/>
-      <Projects/>
-      <Footer/>
+      <Navbar />
+      <Presentation />
+      <Skills />
+      <Projects />
+      <Footer />
     </div>
   );
 }

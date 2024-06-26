@@ -1,0 +1,26 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.footer ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin-right: 40px;
+}
+
+.footer li{
+    margin: 0px 30px;
+    font-size: 14pt;
+    
+}
+
+.footer a{
+    color: white;
+}
+
+.footer p{
+    margin: 10px;
+}

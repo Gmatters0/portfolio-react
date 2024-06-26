@@ -6,7 +6,7 @@ import spPortfolio from '../../image/projects/sp-portfolio.svg'
 
 function Projects(){
     return(
-        <div id="Projects" className={styles.projects}>
+        <div id="projects" className={styles.projects}>
             <h1>Projetos</h1>
             <Card 
             projectImg={lpArquitetura} 
