@@ -1,4 +1,7 @@
 .projects{
-
     margin: 75px;
+}
+
+.projects h3, .projects p{
+    text-align: justify;
 }

@@ -24,7 +24,7 @@ function Projects(){
             repo="https://github.com/Gmatters0/Projeto-Portfolio" 
             site="https://portfolio-exemplo.netlify.app"
             />
-            <ButtonB text="Ver repositório Completo"></ButtonB>
+            <ButtonB link="https://github.com/Gmatters0/portfolio-react" text="Ver repositório Completo"></ButtonB>
         </div>
     )
 }
